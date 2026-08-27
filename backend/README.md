@@ -1,5 +1,4 @@
-Stub Express + Postgres backend for the Guided Intake / Case Profile MVP,
-for the 5 step intake flow built in Figma.
+Stub Express + Postgres backend stuff for the Guided Intake / Case Profile MVP
 
 ## Setup
 
