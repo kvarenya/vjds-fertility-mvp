@@ -25,9 +25,9 @@ Server runs on `http://localhost:4000` by default.
 
 ## Endpoints
 
-- `GET /health` — sanity check, returns `{ status: "ok" }`
-- `POST /intake` — accepts intake answers, creates/updates a session
-- `GET /profile/:id` — returns the case profile for a session id
+- `GET /health` sanity check, returns `{ status: "ok" }`
+- `POST /intake` accepts intake answers, creates/updates a session
+- `GET /profile/:id` returns the case profile for a session id
 
 ### Example: POST /intake
 
@@ -41,7 +41,7 @@ Server runs on `http://localhost:4000` by default.
 }
 ```
 
-Response includes a `sessionId` — save that, it's what you pass to
+Response includes a `sessionId`, save that, it's what you pass to
 `GET /profile/:sessionId` to fetch the profile back.
 
 ## Status
