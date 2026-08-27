@@ -1,7 +1,5 @@
-# Backend — VJDS Project #16 (AI Fertility Platform)
-
 Stub Express + Postgres backend for the Guided Intake / Case Profile MVP,
-matching the actual 5-step intake flow built in Figma Make.
+matching the actual 5-step intake flow built in Figma.
 
 ## Setup
 
@@ -49,7 +47,4 @@ Response includes a `sessionId` — save that, it's what you pass to
 
 ## Status
 
-This is scaffolding only. Field values match the actual Figma Make build
-(not the fuller spec docs, which describe more steps/branching that this
-version doesn't implement yet). The AI overview / recommendation logic is
-stubbed — real scoring logic still needs to be defined with research.
+This is a template only atm. 
