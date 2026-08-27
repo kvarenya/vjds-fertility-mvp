@@ -46,4 +46,4 @@ Response includes a `sessionId`, save that, it's what you pass to
 
 ## Status
 
-This is a template only atm. 
+This is only a template atm. 
